@@ -1,0 +1,29 @@
+[33mcommit 6c72f47a74c75622a36716d68f3684cefcf1e9d2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: orzoarets <ozoarets93@gmail.com>
+Date:   Sat Jun 18 12:37:56 2022 -0500
+
+    Added new file
+
+[33mcommit 17c0b75fbffdbd8076016c03f26a755dc0375377[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: orzoarets <ozoarets93@gmail.com>
+Date:   Sat Jun 18 11:59:15 2022 -0500
+
+    Corrected file extension for hello_world.text
+
+[33mcommit bab27f3154bef60028ba20ae3a6271ad30adb562[m
+Author: orzoarets <ozoarets93@gmail.com>
+Date:   Sat Jun 18 11:58:13 2022 -0500
+
+    Editing README.md and Hello_world.text
+
+[33mcommit 7abb9c9cb2aea893cabd45b09674353692080b1d[m
+Author: orzoarets <ozoarets93@gmail.com>
+Date:   Sat Jun 18 11:41:36 2022 -0500
+
+    Add hello_world.txt
+
+[33mcommit 4043a38eacfe80ae77158b412b63ded22a8c549f[m
+Author: Or Zoarets <ozoarets93@gmail.com>
+Date:   Sat Jun 18 10:59:14 2022 -0500
+
+    Initial commit
